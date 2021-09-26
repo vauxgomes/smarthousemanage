@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/smarthousemanage/static/css/main.5adbd59e.chunk.css",
+    "main.js": "/smarthousemanage/static/js/main.38c91e9c.chunk.js",
+    "main.js.map": "/smarthousemanage/static/js/main.38c91e9c.chunk.js.map",
+    "runtime-main.js": "/smarthousemanage/static/js/runtime-main.84bc8db5.js",
+    "runtime-main.js.map": "/smarthousemanage/static/js/runtime-main.84bc8db5.js.map",
+    "static/js/2.3e8eab15.chunk.js": "/smarthousemanage/static/js/2.3e8eab15.chunk.js",
+    "static/js/2.3e8eab15.chunk.js.map": "/smarthousemanage/static/js/2.3e8eab15.chunk.js.map",
+    "index.html": "/smarthousemanage/index.html",
+    "static/css/main.5adbd59e.chunk.css.map": "/smarthousemanage/static/css/main.5adbd59e.chunk.css.map",
+    "static/js/2.3e8eab15.chunk.js.LICENSE.txt": "/smarthousemanage/static/js/2.3e8eab15.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84bc8db5.js",
+    "static/js/2.3e8eab15.chunk.js",
+    "static/css/main.5adbd59e.chunk.css",
+    "static/js/main.38c91e9c.chunk.js"
+  ]
+}
