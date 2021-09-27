@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/smarthousemanager/static/css/main.5adbd59e.chunk.css",
-    "main.js": "/smarthousemanager/static/js/main.38c91e9c.chunk.js",
-    "main.js.map": "/smarthousemanager/static/js/main.38c91e9c.chunk.js.map",
+    "main.css": "/smarthousemanager/static/css/main.e08cfa2f.chunk.css",
+    "main.js": "/smarthousemanager/static/js/main.bdfdbe66.chunk.js",
+    "main.js.map": "/smarthousemanager/static/js/main.bdfdbe66.chunk.js.map",
     "runtime-main.js": "/smarthousemanager/static/js/runtime-main.25ea87bb.js",
     "runtime-main.js.map": "/smarthousemanager/static/js/runtime-main.25ea87bb.js.map",
-    "static/js/2.3e8eab15.chunk.js": "/smarthousemanager/static/js/2.3e8eab15.chunk.js",
-    "static/js/2.3e8eab15.chunk.js.map": "/smarthousemanager/static/js/2.3e8eab15.chunk.js.map",
+    "static/js/2.da4ac1fe.chunk.js": "/smarthousemanager/static/js/2.da4ac1fe.chunk.js",
+    "static/js/2.da4ac1fe.chunk.js.map": "/smarthousemanager/static/js/2.da4ac1fe.chunk.js.map",
     "index.html": "/smarthousemanager/index.html",
-    "static/css/main.5adbd59e.chunk.css.map": "/smarthousemanager/static/css/main.5adbd59e.chunk.css.map",
-    "static/js/2.3e8eab15.chunk.js.LICENSE.txt": "/smarthousemanager/static/js/2.3e8eab15.chunk.js.LICENSE.txt"
+    "static/css/main.e08cfa2f.chunk.css.map": "/smarthousemanager/static/css/main.e08cfa2f.chunk.css.map",
+    "static/js/2.da4ac1fe.chunk.js.LICENSE.txt": "/smarthousemanager/static/js/2.da4ac1fe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.25ea87bb.js",
-    "static/js/2.3e8eab15.chunk.js",
-    "static/css/main.5adbd59e.chunk.css",
-    "static/js/main.38c91e9c.chunk.js"
+    "static/js/2.da4ac1fe.chunk.js",
+    "static/css/main.e08cfa2f.chunk.css",
+    "static/js/main.bdfdbe66.chunk.js"
   ]
 }
